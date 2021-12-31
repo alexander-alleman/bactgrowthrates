@@ -44,7 +44,7 @@ summary(cars)
 ```
 
 You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
+New line
 You can also embed plots, for example:
 
 ```{r pressure, echo = FALSE}

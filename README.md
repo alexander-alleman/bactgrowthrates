@@ -45,9 +45,7 @@ summary(cars)
 ```
 
 You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date.
-
-You can also embed plots, for example:
+up-to-date. New line You can also embed plots, for example:
 
 <img src="man/figures/README-pressure-1.png" width="100%" />
 
