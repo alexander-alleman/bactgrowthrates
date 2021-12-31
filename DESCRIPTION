@@ -1,0 +1,11 @@
+Package: bactgrowthrate
+Type: Package
+Title: Determines Growth Rates for Microbiology
+Version: 0.1.0
+Author: Alexander Alleman
+Maintainer: Alexander Alleman <alleman@uidhao.ed>
+Description: This will be a package that will incorporate multiple types of growth rate models and predictors for high-through put analysis with the least amount of bias. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
