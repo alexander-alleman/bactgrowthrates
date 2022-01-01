@@ -44,7 +44,7 @@ summary(cars)
 #>  Max.   :25.0   Max.   :120.00
 ```
 
-Change You’ll still need to render `README.Rmd` regularly, to keep
+Change 2 You’ll still need to render `README.Rmd` regularly, to keep
 `README.md` up-to-date. New line You can also embed plots, for example:
 
 <img src="man/figures/README-pressure-1.png" width="100%" />
